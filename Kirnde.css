@@ -1,0 +1,60 @@
+.Alpha{
+    margin-left: 15px; 
+    display: flex; 
+    font-size: larger;
+    }
+    .Ab{
+        height: 60px; 
+        width: 40px; 
+        margin-top: 18px;
+    }
+    .topicons{
+        display: flex; 
+        margin-left: 420px;
+    }
+    .top{
+        display: flex;
+    }
+    .topicons1{
+        margin-left: 50px; 
+        margin-top: 35px;
+    }
+    .topicons2{
+        border-radius: 7px; 
+        font-size: medium; 
+        background-color: tomato; 
+        margin: 25px; color: white; 
+        margin-left: 50px;
+        cursor: pointer;
+    }
+    .Body{
+        font-size: xx-large;
+    }
+    .B1{
+        background-color: tomato; 
+        border-radius: 7px; 
+        padding: 20px;
+        cursor: pointer;
+    }
+    .B2{
+        margin-left: 15px; 
+        background-color: white; 
+        padding: 20px; 
+        border-radius: 7px;
+        cursor: pointer;
+    }
+    .Last{
+        display: flex;
+    }
+    .Eat{
+        height: 40px; 
+        width: 100px; 
+        margin-left: 350px;
+    }
+    .Health{
+        margin: 15px;
+    }
+    .Fit{
+        height: 602px;
+    }
+    
